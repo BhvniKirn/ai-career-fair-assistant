@@ -1,0 +1,7 @@
+streamlit==1.37.0
+pandas>=2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+sentence-transformers==2.7.0
+huggingface_hub==0.23.4
+pypdf==4.2.0

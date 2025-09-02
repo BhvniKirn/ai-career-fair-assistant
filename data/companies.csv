@@ -1,0 +1,9 @@
+company,role,title,degree_level,location,sponsorship,notes
+OpenAI,Data Analyst,Data Analyst,Masters,San Francisco,No,"SQL, Python, dashboarding"
+Google,Software Engineer,New Grad SWE,Bachelors,Mountain View,No,"DSA, systems, coding"
+Meta,Data Scientist,DS - Product,PhD,Menlo Park,No,"Statistics, experimentation"
+NVIDIA,ML Engineer,Deep Learning Engineer,Masters,Santa Clara,No,"PyTorch, CUDA basics"
+EY,Tech Consultant,Technology Consulting,Bachelors,New York,Yes,"Client-facing, travel"
+Infosys,Associate,Associate,Any,Dallas,Yes,"Campus hiring, training provided"
+Deloitte,Analyst,Analyst - Strategy,Bachelors,Chicago,No,"Case-style interviews"
+Amazon,Operations,Area Manager,Bachelors,Various,No,"Leadership principles"
