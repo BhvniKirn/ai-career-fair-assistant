@@ -13,9 +13,6 @@ A lightweight Streamlit app that helps students navigate a university career fai
 - Optional Hugging Face Inference API (free tier) — otherwise graceful fallback to retrieval-only answers
 - One-click deploy on Streamlit Community Cloud (free)
 
-  <img width="2866" height="1623" alt="Screenshot 2025-09-02 131107" src="https://github.com/user-attachments/assets/e465e6db-6714-496e-9402-f344f74d76b9" />
-
-
 ---
 
 ## Features
@@ -83,7 +80,8 @@ streamlit run app.py
 1. Push this folder to a new public GitHub repo.
 2. Go to https://share.streamlit.io , connect repo, pick `app.py` as the entry point.
 3. (Optional) Add a secret `HF_TOKEN` in Streamlit → App settings → Secrets.
-
+   
+ <img width="2866" height="1623" alt="Screenshot 2025-09-02 131107" src="https://github.com/user-attachments/assets/e465e6db-6714-496e-9402-f344f74d76b9" />
 ---
 
 ## LinkedIn Blurb
@@ -95,7 +93,7 @@ streamlit run app.py
 - Works even without an HF token (answers are extractive + templated from retrieved snippets).
 - PDF ingestion uses CPU-friendly embeddings to keep things simple.
 - Keep `companies.csv` updated with your university data.
-<<<<<<< HEAD
+
 =======
 >>>>>>> 110af02 (Initial commit - AI Career Fair Assistant)
 
