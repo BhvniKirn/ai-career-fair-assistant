@@ -13,6 +13,9 @@ A lightweight Streamlit app that helps students navigate a university career fai
 - Optional Hugging Face Inference API (free tier) — otherwise graceful fallback to retrieval-only answers
 - One-click deploy on Streamlit Community Cloud (free)
 
+  <img width="2866" height="1623" alt="Screenshot 2025-09-02 131107" src="https://github.com/user-attachments/assets/e465e6db-6714-496e-9402-f344f74d76b9" />
+
+
 ---
 
 ## Features
