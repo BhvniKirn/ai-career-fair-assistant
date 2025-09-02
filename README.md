@@ -3,7 +3,6 @@
 # ai-career-fair-assistant
 An AI-powered chatbot and dashboard to help students navigate a university career fair.  
 =======
->>>>>>> temp-fix
 # AI-Powered Career Fair Assistant (Free & Open Source)
 
 A lightweight Streamlit app that helps students navigate a university career fair: browse companies, search roles, and ask questions powered by simple RAG (retrieval-augmented generation) using free Hugging Face models (optional) and local retrieval.
@@ -97,4 +96,3 @@ streamlit run app.py
 =======
 >>>>>>> 110af02 (Initial commit - AI Career Fair Assistant)
 
->>>>>>> temp-fix
